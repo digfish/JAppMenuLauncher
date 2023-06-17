@@ -1,0 +1,6 @@
+out/*
+.idea/*
+.vscode
+*.log
+*.bak
+json-simple-4.0.1.jar
